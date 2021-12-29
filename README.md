@@ -18,6 +18,5 @@ Thus, when exporting and loading in the browser, it will be enough to search by 
 
 This script only works in Blender 2.79 and must be updated for new versions.
 
-Translated with www.DeepL.com/Translator (free version)
 
 **Have fun !** 🚀
